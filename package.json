@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/Dev-ES/portal#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "npm": "^5.6.0"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
